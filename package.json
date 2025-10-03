@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-DedanOpiyo#readme",
   "dependencies": {
+    "dotenv": "^17.2.3",
     "mongodb": "^6.20.0"
   }
 }
